@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zh Cut The Crap"
+  short_description: "默认严格压缩Codex可见中文沟通文本并去黑话"
+  default_prompt: "Use $zh-cut-the-crap on and keep all visible Chinese commentary and responses in strict concise plain-Chinese mode."
